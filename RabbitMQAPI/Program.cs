@@ -1,5 +1,6 @@
 using Data;
 using Microsoft.EntityFrameworkCore;
+using RabbitMQAPI.RabbitMQ;
 using RabbitMQAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -17,6 +18,7 @@ builder.Services.AddDbContext<DbContextClass>(options =>
 });
 
 // Add Scoped
+builder.Services.AddScoped<IRabbitMQProducer, RabbitMQProducer>();
 builder.Services.AddScoped<IProductService, ProductService>();
 
 var app = builder.Build();
