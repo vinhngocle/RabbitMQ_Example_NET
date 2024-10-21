@@ -9,6 +9,11 @@
 # Verify the Installation EF Core Tools
 - dotnet ef
 
+# Dotnet migration
+- dotnet ef migrations add init
+
+- dotnet ef database update
+
 # List dotnet new project
 - dotnet new list
 
