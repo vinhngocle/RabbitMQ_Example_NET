@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="XskubEJi0R3WrxgRnHOm">
-    <mxGraphModel dx="1836" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1683" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,14 +131,38 @@
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-118" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Access Services (XT, Dicom, Atlantis, ...)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="441.25" y="770" width="138.75" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="0LMOfcOHEF7ToOQz5EPv-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0LMOfcOHEF7ToOQz5EPv-120" target="0LMOfcOHEF7ToOQz5EPv-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-120" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1340" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0LMOfcOHEF7ToOQz5EPv-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="1520" as="sourcePoint" />
+            <mxPoint x="450.6300000000001" y="1520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-122" value="Authen Service" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1500" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0LMOfcOHEF7ToOQz5EPv-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450.6300000000001" y="1540" as="sourcePoint" />
+            <mxPoint x="255" y="1540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-123" value="Client Service (Login, Signup, ...)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="450.63" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0LMOfcOHEF7ToOQz5EPv-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.632;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="187.49999999999977" y="1497" as="sourcePoint" />
+            <mxPoint x="188.34000000000015" y="1350.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0LMOfcOHEF7ToOQz5EPv-132" value="Cache" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1548" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
