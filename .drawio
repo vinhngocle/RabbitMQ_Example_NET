@@ -94,7 +94,7 @@
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-25" value="Authen &amp;amp; Authori Service" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="650" y="1160" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0LMOfcOHEF7ToOQz5EPv-26" value="Authen &amp;amp; Autho Service" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="0LMOfcOHEF7ToOQz5EPv-26" value="Authen &amp;amp; Authori Service" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="660" y="1850" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1">
