@@ -124,9 +124,6 @@
             <mxPoint x="422.5" y="1374.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0LMOfcOHEF7ToOQz5EPv-36" value="Other service (XT, Atlantis, ...)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="480" y="2550" width="140" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-39" value="request relevant service (eg: xt services, atlantis service, ...)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="27.5" y="790" width="160" height="80" as="geometry" />
         </mxCell>
