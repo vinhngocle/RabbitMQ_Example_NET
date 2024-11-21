@@ -53,7 +53,7 @@
           <mxGeometry x="262.5" y="515" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-15" value="User" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="35" y="1860" width="140" height="70" as="geometry" />
+          <mxGeometry x="35" y="1850" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-16" value="User" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="28.75" y="1150" width="140" height="70" as="geometry" />
@@ -62,11 +62,11 @@
           <mxGeometry x="335" y="1160" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-18" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="1860" width="140" height="70" as="geometry" />
+          <mxGeometry x="327.5" y="1850" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" target="0LMOfcOHEF7ToOQz5EPv-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="1850" as="sourcePoint" />
+            <mxPoint x="400" y="1850" as="sourcePoint" />
             <mxPoint x="178" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -95,11 +95,11 @@
           <mxGeometry x="650" y="1160" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-26" value="Authen &amp;amp; Authori Service" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1850" width="140" height="70" as="geometry" />
+          <mxGeometry x="650" y="1850" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0LMOfcOHEF7ToOQz5EPv-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1">
+        <mxCell id="0LMOfcOHEF7ToOQz5EPv-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0LMOfcOHEF7ToOQz5EPv-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="1850" as="sourcePoint" />
+            <mxPoint x="720" y="1840" as="sourcePoint" />
             <mxPoint x="719.5" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -186,8 +186,8 @@
         </mxCell>
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-57" value="" style="endArrow=none;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="115" y="1474.5" as="sourcePoint" />
-            <mxPoint x="157.5" y="1474.5" as="targetPoint" />
+            <mxPoint x="132.5" y="1474.5" as="sourcePoint" />
+            <mxPoint x="175" y="1474.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-58" value="validates the JWT token" style="text;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
