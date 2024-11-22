@@ -162,7 +162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-132" value="Cache" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1528" width="60" height="30" as="geometry" />
+          <mxGeometry x="490" y="1460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-134" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-weight: 400; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start; text-wrap-mode: wrap;&quot; class=&quot;p1&quot;&gt;EnumFunctions&lt;/p&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="1680" width="220" height="150" as="geometry" />
@@ -420,6 +420,12 @@
         </mxCell>
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-240" value="=&amp;gt; not match function" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="115" y="1480" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0LMOfcOHEF7ToOQz5EPv-242" value="API map với bao nhiêu enum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1320" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0LMOfcOHEF7ToOQz5EPv-243" value="Check Authen &amp;amp; Author" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1550" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
