@@ -433,13 +433,13 @@
         <mxCell id="-zxCqJaAxVM5qSXiraOT-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;return to list table&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="52.5" y="2400" width="137.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-zxCqJaAxVM5qSXiraOT-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Save list table to db&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-zxCqJaAxVM5qSXiraOT-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Save result data to db&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="52.5" y="2530" width="137.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-zxCqJaAxVM5qSXiraOT-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Call to AI return to list table&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="2650" width="137.5" height="80" as="geometry" />
+        <mxCell id="-zxCqJaAxVM5qSXiraOT-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Call to AI return to result data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2651" width="137.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-zxCqJaAxVM5qSXiraOT-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Save list table as csv or excel&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-zxCqJaAxVM5qSXiraOT-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Save result data as csv or excel&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="2770" width="137.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-zxCqJaAxVM5qSXiraOT-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Upload to S3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
