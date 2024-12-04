@@ -467,8 +467,13 @@
         <mxCell id="-zxCqJaAxVM5qSXiraOT-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Upload to S3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="251.25" y="2920" width="137.5" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-zxCqJaAxVM5qSXiraOT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-zxCqJaAxVM5qSXiraOT-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="2960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-zxCqJaAxVM5qSXiraOT-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Get link download file from S3&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="2920" width="137.5" height="80" as="geometry" />
+          <mxGeometry x="470" y="2920" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-zxCqJaAxVM5qSXiraOT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-zxCqJaAxVM5qSXiraOT-14">
           <mxGeometry relative="1" as="geometry">
