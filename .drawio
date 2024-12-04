@@ -285,7 +285,7 @@
         <mxCell id="0LMOfcOHEF7ToOQz5EPv-243" value="Check Authen &amp;amp; Author" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="315.63" y="1610" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-zxCqJaAxVM5qSXiraOT-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-zxCqJaAxVM5qSXiraOT-4" target="-zxCqJaAxVM5qSXiraOT-14">
+        <mxCell id="-zxCqJaAxVM5qSXiraOT-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-zxCqJaAxVM5qSXiraOT-4" target="-zxCqJaAxVM5qSXiraOT-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-zxCqJaAxVM5qSXiraOT-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Request call to Api AI follow condition search&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -322,7 +322,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-zxCqJaAxVM5qSXiraOT-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;check response&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;result search&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="37.5" y="2970" width="140" height="100" as="geometry" />
+          <mxGeometry x="33.75" y="2970" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-zxCqJaAxVM5qSXiraOT-19" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="176.25" y="2985" width="40" height="30" as="geometry" />
@@ -344,21 +344,17 @@
         <mxCell id="-zxCqJaAxVM5qSXiraOT-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Update status completed to DB&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="663.75" y="3130" width="126.25" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-zxCqJaAxVM5qSXiraOT-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-zxCqJaAxVM5qSXiraOT-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="102.5" y="2700" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="-zxCqJaAxVM5qSXiraOT-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-zxCqJaAxVM5qSXiraOT-34" target="-zxCqJaAxVM5qSXiraOT-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-zxCqJaAxVM5qSXiraOT-34" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;User click download&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="2590" width="137.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-zxCqJaAxVM5qSXiraOT-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-zxCqJaAxVM5qSXiraOT-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="102.5" y="2780" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="-zxCqJaAxVM5qSXiraOT-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-zxCqJaAxVM5qSXiraOT-37" target="-zxCqJaAxVM5qSXiraOT-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-zxCqJaAxVM5qSXiraOT-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Save condition search (patientId, Keyword)&amp;nbsp; to DB&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="25" y="2620" width="150" height="80" as="geometry" />
+          <mxGeometry x="25" y="2690" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-zxCqJaAxVM5qSXiraOT-64" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Khi Admin service, User request đến authen service, sẽ gửi 1 serect key (token + secretkey) enscrypt, dùng mã hoá 2 chiều&lt;br&gt;Bên authen service sẽ mã hóa serect key (token + secretKey) (tạo const trong setting)&lt;br&gt;Nếu serect key map với nhau&lt;br&gt;Hợp lệ =&amp;gt; được sử dụng api service&lt;br&gt;Không hợp lệ =&amp;gt; không được sử dụng&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="57.5" y="1680" width="742.5" height="100" as="geometry" />
