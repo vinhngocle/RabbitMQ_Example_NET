@@ -481,11 +481,11 @@
         <mxCell id="QjefasGycdzft_F4YQqb-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;1 file thay đổi =&amp;gt; encrypt lại tất cả&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="3390" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QjefasGycdzft_F4YQqb-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;file tạm EDlls lưu service + hash ids&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="3338" width="260" height="30" as="geometry" />
+        <mxCell id="QjefasGycdzft_F4YQqb-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;file tạm EDlls (vd: eDlls.bat) lưu service + hash ids&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="3338" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QjefasGycdzft_F4YQqb-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;lưu nhiều file (vd: 10) hay chỉ lưu 1 file&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="3390" width="280" height="30" as="geometry" />
+        <mxCell id="QjefasGycdzft_F4YQqb-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;lưu nhiều file (vd: 10 file) hay chỉ lưu 1 file&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="3390" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QjefasGycdzft_F4YQqb-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Backend Authen Service&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261.06" y="1260" width="240" height="40" as="geometry" />
