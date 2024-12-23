@@ -526,8 +526,26 @@
         <mxCell id="ZAS4PXkTyzWtLFfuTjUR-5" value="&lt;font face=&quot;Slack-Lato, Slack-Fractions, appleLogo, sans-serif&quot; color=&quot;#1d1c1d&quot;&gt;&lt;span style=&quot;font-size: 15px; font-variant-ligatures: common-ligatures; background-color: rgb(248, 248, 248);&quot;&gt;nếu data đang xử lý =&amp;gt; 1 request khác tới thì xử lý thế nào ?&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="11.25" y="4270" width="737.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="53.75" y="4410" width="120" height="60" as="geometry" />
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-1" value="Thumbnail Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707.5" y="4493" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-2" value="XT Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="4420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-4" value="Load images (dicome, jpg, png, ...)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="150" y="4430" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-6" value="Detect image with id, generate signature" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="371.25" y="4470" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-7" value="Convert image to thumbnail (&amp;lt;= 512px)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="371.25" y="4500" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-8" value="lưu theo định dạng thumb.lizai.co/picture/signature" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="365" y="4540" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-9" value="lưu lên MinIO theo định dạng url trên" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="376.25" y="4580" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
