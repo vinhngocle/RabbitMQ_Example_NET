@@ -547,14 +547,28 @@
         <mxCell id="6aFfccNZobj0F7i7SJ7X-9" value="lưu lên MinIO theo định dạng url trên" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="376.25" y="4580" width="250" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6aFfccNZobj0F7i7SJ7X-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="4780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6aFfccNZobj0F7i7SJ7X-10" value="XT load images&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="50" y="4670" width="190" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6aFfccNZobj0F7i7SJ7X-11" target="6aFfccNZobj0F7i7SJ7X-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6aFfccNZobj0F7i7SJ7X-11" value="Thumbnail Service detect image (dicom, jpg, png, ...) with id, generate signature" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="40" y="4790" width="200" height="70" as="geometry" />
+          <mxGeometry x="44.38" y="4780" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6aFfccNZobj0F7i7SJ7X-12" target="6aFfccNZobj0F7i7SJ7X-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6aFfccNZobj0F7i7SJ7X-12" value="Thumbnail Service generate image (dicom, jpg, png, ...) to thumbnail (&amp;lt;= 512 px)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="45" y="4910" width="205" height="70" as="geometry" />
+          <mxGeometry x="41.25" y="4900" width="205" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6aFfccNZobj0F7i7SJ7X-13" target="6aFfccNZobj0F7i7SJ7X-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6aFfccNZobj0F7i7SJ7X-13" value="&lt;font&gt;Store minIO follow format&amp;nbsp;&lt;br&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;thumb.lizai.co/picture/signature&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="1">
           <mxGeometry x="38.75" y="5020" width="211.25" height="60" as="geometry" />
