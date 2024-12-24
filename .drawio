@@ -562,13 +562,13 @@
           <mxGeometry x="18.75" y="5420" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-13" value="&lt;font&gt;Create thumbnail from images&amp;nbsp;&lt;br&gt;&lt;span&gt;(width, height &amp;lt;= 512 px)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="22.5" y="5530" width="211.25" height="60" as="geometry" />
+          <mxGeometry x="16.25" y="5540" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-15" value="&lt;font&gt;Upload minIO&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="19.38" y="5630" width="211.25" height="60" as="geometry" />
+          <mxGeometry x="9.999999999999998" y="5660" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Get thumb follow format&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;thumb.lizai.co/picture/signature&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="18.75" y="5960" width="211.25" height="60" as="geometry" />
+          <mxGeometry x="9.370000000000001" y="5880" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-19" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="63.75" y="5040" width="40" height="30" as="geometry" />
@@ -582,11 +582,8 @@
         <mxCell id="Hi_7yChdlAPM8051LZ7l-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.472;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-10" target="Hi_7yChdlAPM8051LZ7l-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-43" value="Result thumb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="17.5" y="5850" width="211.25" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-44" value="&lt;font&gt;Save info to DB&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="15" y="5740" width="211.25" height="60" as="geometry" />
+          <mxGeometry x="8.75" y="5760" width="211.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
