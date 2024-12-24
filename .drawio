@@ -596,6 +596,15 @@
         <mxCell id="Hi_7yChdlAPM8051LZ7l-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-46" target="Hi_7yChdlAPM8051LZ7l-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-52" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="210" y="5670" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-53" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="55" y="5768" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-54" value="Update Status DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="263.75" y="5690" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
