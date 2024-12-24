@@ -632,7 +632,7 @@
         <mxCell id="Hi_7yChdlAPM8051LZ7l-15" value="&lt;font&gt;Store minIO&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="23.75" y="5390" width="211.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;get image follow format&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;thumb.lizai.co/picture/signature&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Get thumb follow format&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;thumb.lizai.co/picture/signature&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="23.75" y="5490" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-19" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
