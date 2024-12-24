@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="XskubEJi0R3WrxgRnHOm">
-    <mxGraphModel dx="2003" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2226" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -512,81 +512,81 @@
           <mxGeometry x="22.5" y="3900" width="560" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZAS4PXkTyzWtLFfuTjUR-1" value="Thumbnail for medical images" style="text;whiteSpace=wrap;align=center;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="240" y="4020" width="279.62" height="40" as="geometry" />
+          <mxGeometry x="305" y="4410" width="279.62" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZAS4PXkTyzWtLFfuTjUR-2" value="&lt;font face=&quot;Slack-Lato, Slack-Fractions, appleLogo, sans-serif&quot; color=&quot;#1d1c1d&quot;&gt;&lt;span style=&quot;font-size: 15px; font-variant-ligatures: common-ligatures; background-color: rgb(248, 248, 248);&quot;&gt;Search library convert image (list library =&amp;gt; review chọn 1 library)&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="17.5" y="4080" width="472.5" height="40" as="geometry" />
+          <mxGeometry x="17.5" y="4470" width="472.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZAS4PXkTyzWtLFfuTjUR-3" value="&lt;font color=&quot;#1d1c1d&quot; face=&quot;Slack-Lato, Slack-Fractions, appleLogo, sans-serif&quot;&gt;&lt;span style=&quot;font-variant-ligatures: common-ligatures;&quot;&gt;viết service thumnail =&amp;gt; input: dựa vào id, Bucket, ... (id picture) =&amp;gt; gen signature&lt;br&gt;=&amp;gt; dựa vào id pic để gen signature&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#1d1c1d&quot; face=&quot;Slack-Lato, Slack-Fractions, appleLogo, sans-serif&quot;&gt;&lt;span style=&quot;font-variant-ligatures: common-ligatures;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#1d1c1d&quot; face=&quot;Slack-Lato, Slack-Fractions, appleLogo, sans-serif&quot;&gt;&lt;span style=&quot;font-variant-ligatures: common-ligatures;&quot;&gt;khi data service upload images =&amp;gt;&amp;nbsp; check file has images? =&amp;gt; send message info file to&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-variant-ligatures: common-ligatures;&quot;&gt;thumbnail&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-variant-ligatures: common-ligatures; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif;&quot;&gt;service =&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-variant-ligatures: common-ligatures;&quot;&gt;thumbnail&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-variant-ligatures: common-ligatures; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif;&quot;&gt;service received info file =&amp;gt;&lt;/span&gt;&lt;font color=&quot;#1d1c1d&quot; face=&quot;Slack-Lato, Slack-Fractions, appleLogo, sans-serif&quot; style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-variant-ligatures: common-ligatures;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-variant-ligatures: common-ligatures;&quot;&gt;thumbnail&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-variant-ligatures: common-ligatures; color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif;&quot;&gt;service nhận biết id =&amp;gt; gen signature =&amp;gt; service thumnail gen url thumbnail&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="15" y="4130" width="775" height="120" as="geometry" />
+          <mxGeometry x="18.75" y="4510" width="775" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZAS4PXkTyzWtLFfuTjUR-4" value="&lt;font face=&quot;Slack-Lato, Slack-Fractions, appleLogo, sans-serif&quot; color=&quot;#1d1c1d&quot;&gt;&lt;span style=&quot;font-size: 15px; font-variant-ligatures: common-ligatures; background-color: rgb(248, 248, 248);&quot;&gt;thumb.lizai.co/pic/signature&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="11.25" y="4270" width="212.5" height="40" as="geometry" />
+          <mxGeometry x="20" y="4650" width="212.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZAS4PXkTyzWtLFfuTjUR-5" value="&lt;font face=&quot;Slack-Lato, Slack-Fractions, appleLogo, sans-serif&quot; color=&quot;#1d1c1d&quot;&gt;&lt;span style=&quot;font-size: 15px; font-variant-ligatures: common-ligatures; background-color: rgb(248, 248, 248);&quot;&gt;nếu data đang xử lý =&amp;gt; 1 request khác tới thì xử lý thế nào ?&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="11.25" y="4310" width="737.5" height="40" as="geometry" />
+          <mxGeometry x="17.5" y="4700" width="737.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-2" target="Hi_7yChdlAPM8051LZ7l-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-2" value="Upload files" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="22.5" y="4440" width="190" height="70" as="geometry" />
+          <mxGeometry x="20" y="4790" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-3" target="Hi_7yChdlAPM8051LZ7l-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-3" value="Send message info file to Thumbnail Service&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="21.879999999999992" y="4730" width="190" height="70" as="geometry" />
+          <mxGeometry x="19.379999999999992" y="5080" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="276.25" y="4635" as="targetPoint" />
+            <mxPoint x="273.75" y="4985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-4" target="Hi_7yChdlAPM8051LZ7l-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Data Services check file upload has image ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20.000000000000004" y="4580" width="193.75" height="110" as="geometry" />
+          <mxGeometry x="17.500000000000004" y="4930" width="193.75" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-6" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="226.25" y="4600" width="40" height="30" as="geometry" />
+          <mxGeometry x="223.75" y="4950" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-7" value="not images" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="281.25" y="4620" width="80" height="30" as="geometry" />
+          <mxGeometry x="278.75" y="4970" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-10" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Thumbnail Service recieved message info file&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="21.249999999999993" y="4850" width="190" height="70" as="geometry" />
+          <mxGeometry x="18.749999999999993" y="5200" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-12" target="Hi_7yChdlAPM8051LZ7l-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-12" value="&lt;font&gt;Generate signature base on id&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="21.25" y="5070" width="211.25" height="60" as="geometry" />
+          <mxGeometry x="18.75" y="5420" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-13" target="Hi_7yChdlAPM8051LZ7l-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-13" value="&lt;font&gt;Create thumbnail from images&amp;nbsp;&lt;br&gt;&lt;span&gt;(width, height &amp;lt;= 512 px)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="305.87" y="5070" width="211.25" height="60" as="geometry" />
+          <mxGeometry x="303.37" y="5420" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-15" target="Hi_7yChdlAPM8051LZ7l-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-15" value="&lt;font&gt;Store minIO&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="581.25" y="5070" width="211.25" height="60" as="geometry" />
+          <mxGeometry x="578.75" y="5420" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Get thumb follow format&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;thumb.lizai.co/picture/signature&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="581.25" y="4940" width="211.25" height="60" as="geometry" />
+          <mxGeometry x="578.75" y="5290" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-19" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="66.25" y="4690" width="40" height="30" as="geometry" />
+          <mxGeometry x="63.75" y="5040" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-37" target="Hi_7yChdlAPM8051LZ7l-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-37" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Detect image (dicom, jpg, png, ...)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="21.88" y="4960" width="211.25" height="60" as="geometry" />
+          <mxGeometry x="19.38" y="5310" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.451;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-10" target="Hi_7yChdlAPM8051LZ7l-37">
           <mxGeometry relative="1" as="geometry" />
