@@ -535,7 +535,7 @@
         <mxCell id="Hi_7yChdlAPM8051LZ7l-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-3" target="Hi_7yChdlAPM8051LZ7l-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-3" value="Use RabbitMQ to&amp;nbsp; send message info file to Thumbnail Service&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-3" value="Use RabbitMQ to send message info file to Thumbnail Service&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="19.38" y="5080" width="200.62" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-4">
