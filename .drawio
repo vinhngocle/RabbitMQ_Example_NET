@@ -564,8 +564,8 @@
         <mxCell id="Hi_7yChdlAPM8051LZ7l-13" value="&lt;font&gt;Create thumbnail from images&amp;nbsp;&lt;br&gt;&lt;span&gt;(width, height &amp;lt;= 512 px)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="16.25" y="5540" width="211.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-15" value="&lt;font&gt;Upload minIO&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="17.5" y="5660" width="211.25" height="60" as="geometry" />
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-15" value="&lt;font&gt;Upload to minIO&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10" y="5650" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Get thumb follow format&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;thumb.lizai.co/picture/signature&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="18.75" y="5870" width="211.25" height="60" as="geometry" />
