@@ -576,7 +576,7 @@
         <mxCell id="Hi_7yChdlAPM8051LZ7l-7" value="not images" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="285" y="4810" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-10" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Thumbnail Service recieve message info file&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-10" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Thumbnail Service recieved message info file&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="24.999999999999993" y="5040" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-12" target="Hi_7yChdlAPM8051LZ7l-13">
