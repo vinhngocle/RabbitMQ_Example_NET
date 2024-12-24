@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="XskubEJi0R3WrxgRnHOm">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2003" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -526,60 +526,60 @@
         <mxCell id="ZAS4PXkTyzWtLFfuTjUR-5" value="&lt;font face=&quot;Slack-Lato, Slack-Fractions, appleLogo, sans-serif&quot; color=&quot;#1d1c1d&quot;&gt;&lt;span style=&quot;font-size: 15px; font-variant-ligatures: common-ligatures; background-color: rgb(248, 248, 248);&quot;&gt;nếu data đang xử lý =&amp;gt; 1 request khác tới thì xử lý thế nào ?&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="11.25" y="4270" width="737.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-1" value="Thumbnail Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-1" value="Thumbnail Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="707.5" y="4493" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-2" value="XT Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-2" value="XT Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="22.5" y="4420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-4" value="Load images (dicome, jpg, png, ...)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-4" value="Load images (dicome, jpg, png, ...)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="150" y="4430" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-6" value="Detect image with id, generate signature" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-6" value="Detect image with id, generate signature" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="371.25" y="4470" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-7" value="Convert image to thumbnail (&amp;lt;= 512px)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-7" value="Convert image to thumbnail (&amp;lt;= 512px)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="371.25" y="4500" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-8" value="lưu theo định dạng thumb.lizai.co/picture/signature" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-8" value="lưu theo định dạng thumb.lizai.co/picture/signature" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="365" y="4540" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-9" value="lưu lên MinIO theo định dạng url trên" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-9" value="lưu lên MinIO theo định dạng url trên" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="376.25" y="4580" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6aFfccNZobj0F7i7SJ7X-10">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6aFfccNZobj0F7i7SJ7X-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="145" y="4780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-10" value="XT load images&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-10" value="XT load images&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="50" y="4670" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6aFfccNZobj0F7i7SJ7X-11" target="6aFfccNZobj0F7i7SJ7X-22">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6aFfccNZobj0F7i7SJ7X-11" target="6aFfccNZobj0F7i7SJ7X-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-11" value="Thumbnail Service detect image (dicom, jpg, png, ...) base on id" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-11" value="Thumbnail Service detect image (dicom, jpg, png, ...) base on id" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="44.38" y="4780" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6aFfccNZobj0F7i7SJ7X-12" target="6aFfccNZobj0F7i7SJ7X-13">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6aFfccNZobj0F7i7SJ7X-12" target="6aFfccNZobj0F7i7SJ7X-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-12" value="Generate image to thumbnail&amp;nbsp;&lt;div&gt;(width, height &amp;lt;= 512 px)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-12" value="Convert image to thumbnail&amp;nbsp;&lt;div&gt;(width, height &amp;lt;= 512 px)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="35.63" y="5000" width="205" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6aFfccNZobj0F7i7SJ7X-13" target="6aFfccNZobj0F7i7SJ7X-14">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6aFfccNZobj0F7i7SJ7X-13" target="6aFfccNZobj0F7i7SJ7X-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-13" value="&lt;font&gt;Store minIO&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="1">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-13" value="&lt;font&gt;Store minIO&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=center;" parent="1" vertex="1">
           <mxGeometry x="33.13" y="5130" width="211.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;get image follow format&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;thumb.lizai.co/picture/signature&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="1">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;get image follow format&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;thumb.lizai.co/picture/signature&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=center;" parent="1" vertex="1">
           <mxGeometry x="33.13" y="5230" width="211.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6aFfccNZobj0F7i7SJ7X-22" target="6aFfccNZobj0F7i7SJ7X-12">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6aFfccNZobj0F7i7SJ7X-22" target="6aFfccNZobj0F7i7SJ7X-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6aFfccNZobj0F7i7SJ7X-22" value="generate signature" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="1">
+        <mxCell id="6aFfccNZobj0F7i7SJ7X-22" value="generate signature base on id" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=center;" parent="1" vertex="1">
           <mxGeometry x="35.63" y="4890" width="211.25" height="60" as="geometry" />
         </mxCell>
       </root>
