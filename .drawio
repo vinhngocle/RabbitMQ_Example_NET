@@ -613,7 +613,7 @@
           <mxGeometry x="278.44" y="5532.5" width="181.56" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-53" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="451.06" y="5532.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="445" y="5540" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-54" value="Update Status DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="301.25" y="5440" width="140" height="30" as="geometry" />
