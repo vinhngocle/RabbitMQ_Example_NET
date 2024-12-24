@@ -556,7 +556,7 @@
         <mxCell id="Hi_7yChdlAPM8051LZ7l-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-3" target="Hi_7yChdlAPM8051LZ7l-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-3" value="Send message to Thumbnail Service&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-3" value="Send message info file to Thumbnail Service&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="25.629999999999992" y="4920" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-4">
@@ -576,14 +576,14 @@
         <mxCell id="Hi_7yChdlAPM8051LZ7l-7" value="not images" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="285" y="4810" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-10" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Thumbnail Service recieve message&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="24.999999999999993" y="5050" width="190" height="70" as="geometry" />
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-10" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Thumbnail Service recieve message info file&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="24.999999999999993" y="5040" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-12" target="Hi_7yChdlAPM8051LZ7l-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-12" value="&lt;font&gt;generate signature base on id&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="25.63" y="5249" width="211.25" height="60" as="geometry" />
+          <mxGeometry x="23.75" y="5249" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-13" target="Hi_7yChdlAPM8051LZ7l-15">
           <mxGeometry relative="1" as="geometry" />
@@ -612,11 +612,11 @@
         <mxCell id="Hi_7yChdlAPM8051LZ7l-36" value="Send message to Thumb Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="140" y="4460" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-37" target="Hi_7yChdlAPM8051LZ7l-12">
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-37" target="Hi_7yChdlAPM8051LZ7l-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-37" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Detect image (dicom, jpg, png, ...)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="23.75" y="5150" width="211.25" height="60" as="geometry" />
+          <mxGeometry x="25.63" y="5150" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.451;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-10" target="Hi_7yChdlAPM8051LZ7l-37">
           <mxGeometry relative="1" as="geometry" />
