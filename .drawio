@@ -611,9 +611,6 @@
         <mxCell id="Hi_7yChdlAPM8051LZ7l-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Create thumbnail from images&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;(width, height &amp;lt;= 512 px)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="1">
           <mxGeometry x="25" y="5280" width="211.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-15" target="Hi_7yChdlAPM8051LZ7l-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-15" value="&lt;font&gt;Store minIO&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="1">
           <mxGeometry x="23.75" y="5390" width="211.25" height="60" as="geometry" />
         </mxCell>
