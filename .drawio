@@ -578,6 +578,9 @@
         <mxCell id="Hi_7yChdlAPM8051LZ7l-15" value="&lt;font&gt;Upload to minIO&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="510" y="5540" width="211.25" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-16" target="Hi_7yChdlAPM8051LZ7l-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Get thumb follow format&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;thumb.lizai.co/picture/signature&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="506.03" y="5340" width="211.25" height="60" as="geometry" />
         </mxCell>
@@ -621,11 +624,14 @@
         <mxCell id="Hi_7yChdlAPM8051LZ7l-58" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="5500" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-61" target="Hi_7yChdlAPM8051LZ7l-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-61" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;check link existed ?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="5230" width="171.56" height="75" as="geometry" />
+          <mxGeometry x="525.87" y="5230" width="171.56" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-62" value="Show thumbnail" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="495" y="5120" width="211.25" height="60" as="geometry" />
+          <mxGeometry x="506.03" y="5120" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-64" value="Show image config default &lt;br&gt;and notify processing&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="285" y="5242.5" width="190" height="50" as="geometry" />
@@ -636,16 +642,10 @@
         <mxCell id="Hi_7yChdlAPM8051LZ7l-66" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="470" y="5230" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.534;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-61" target="Hi_7yChdlAPM8051LZ7l-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-69" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="5200" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.535;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-15" target="Hi_7yChdlAPM8051LZ7l-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.542;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-16" target="Hi_7yChdlAPM8051LZ7l-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
