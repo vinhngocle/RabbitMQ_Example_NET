@@ -573,7 +573,7 @@
           <mxGeometry x="18.75" y="5540" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-15" value="&lt;font&gt;Upload to minIO&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="510" y="5540" width="211.25" height="60" as="geometry" />
+          <mxGeometry x="515.57" y="5540" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-16" target="Hi_7yChdlAPM8051LZ7l-61">
           <mxGeometry relative="1" as="geometry" />
