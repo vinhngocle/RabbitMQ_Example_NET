@@ -582,8 +582,14 @@
         <mxCell id="6aFfccNZobj0F7i7SJ7X-22" value="generate signature base on id" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=center;" parent="1" vertex="1">
           <mxGeometry x="600.63" y="4900" width="211.25" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-2" target="Hi_7yChdlAPM8051LZ7l-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-2" value="Upload files" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="33.75" y="4660" width="190" height="70" as="geometry" />
+          <mxGeometry x="27.5" y="4660" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-3" target="Hi_7yChdlAPM8051LZ7l-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-3" value="Send message to Thumbnail Service&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="27.499999999999993" y="4920" width="190" height="70" as="geometry" />
@@ -592,6 +598,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="4825" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-4" target="Hi_7yChdlAPM8051LZ7l-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Data Services check file upload has image ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="23.750000000000004" y="4770" width="193.75" height="110" as="geometry" />
@@ -605,17 +614,32 @@
         <mxCell id="Hi_7yChdlAPM8051LZ7l-10" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Thumbnail Service detect image (dicom, jpg, png, ...)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="30.00999999999999" y="5040" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;generate signature base on id&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="1">
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-12" target="Hi_7yChdlAPM8051LZ7l-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-12" value="&lt;font&gt;generate signature base on id&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="30" y="5170" width="211.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Create thumbnail from images&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;(width, height &amp;lt;= 512 px)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="1">
-          <mxGeometry x="25" y="5280" width="211.25" height="60" as="geometry" />
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-13" target="Hi_7yChdlAPM8051LZ7l-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-15" value="&lt;font&gt;Store minIO&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="1">
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-13" value="&lt;font&gt;Create thumbnail from images&amp;nbsp;&lt;br&gt;&lt;span&gt;(width, height &amp;lt;= 512 px)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="25" y="5280" width="211.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-15" target="Hi_7yChdlAPM8051LZ7l-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-15" value="&lt;font&gt;Store minIO&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="23.75" y="5390" width="211.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;get image follow format&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;thumb.lizai.co/picture/signature&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="1">
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;get image follow format&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;thumb.lizai.co/picture/signature&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="23.75" y="5490" width="211.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-19" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="4880" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.454;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-10" target="Hi_7yChdlAPM8051LZ7l-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
