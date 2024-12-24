@@ -590,7 +590,7 @@
             <mxPoint x="290" y="5695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-46" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;generate success&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-46" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Generate success&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="16.25" y="5640" width="193.75" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-49" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
