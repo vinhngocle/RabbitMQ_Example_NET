@@ -565,7 +565,7 @@
           <mxGeometry x="16.25" y="5540" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-15" value="&lt;font&gt;Upload to minIO&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="22.5" y="5820" width="211.25" height="60" as="geometry" />
+          <mxGeometry x="21.25" y="5810" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Get thumb follow format&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;thumb.lizai.co/picture/signature&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="74.38" y="6110" width="211.25" height="60" as="geometry" />
@@ -585,16 +585,16 @@
         <mxCell id="Hi_7yChdlAPM8051LZ7l-44" value="&lt;font&gt;Save info to DB&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="25" y="5960" width="211.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-46">
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-46">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="5695" as="targetPoint" />
+            <mxPoint x="260" y="5705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hi_7yChdlAPM8051LZ7l-46" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Generate success&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16.25" y="5640" width="193.75" height="110" as="geometry" />
+          <mxGeometry x="19.38" y="5650" width="190.62" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Hi_7yChdlAPM8051LZ7l-49" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="212.5" y="5660" width="40" height="30" as="geometry" />
+        <mxCell id="Hi_7yChdlAPM8051LZ7l-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hi_7yChdlAPM8051LZ7l-46" target="Hi_7yChdlAPM8051LZ7l-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
