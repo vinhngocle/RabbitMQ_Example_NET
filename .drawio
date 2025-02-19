@@ -684,35 +684,44 @@
         <mxCell id="7mrqi9G4F7wSYJNyf2I3-2" value="Extract completed" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="51.25" y="6010" width="190" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="7mrqi9G4F7wSYJNyf2I3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7mrqi9G4F7wSYJNyf2I3-3" target="7mrqi9G4F7wSYJNyf2I3-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7mrqi9G4F7wSYJNyf2I3-3" value="Save info to notification and extract noti" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="51.25" y="6360" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7mrqi9G4F7wSYJNyf2I3-5" value="Navigate extract&amp;nbsp;corresponding&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="395" y="6350" width="225" height="70" as="geometry" />
+          <mxGeometry x="359.62" y="6250" width="225" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7mrqi9G4F7wSYJNyf2I3-10" value="Send noti to user" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="50" y="6240" width="190" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="7mrqi9G4F7wSYJNyf2I3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7mrqi9G4F7wSYJNyf2I3-11" target="7mrqi9G4F7wSYJNyf2I3-12">
+        <mxCell id="7mrqi9G4F7wSYJNyf2I3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7mrqi9G4F7wSYJNyf2I3-10" target="7mrqi9G4F7wSYJNyf2I3-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7mrqi9G4F7wSYJNyf2I3-11" value="Receive noti extract&lt;div&gt;&amp;nbsp;(error, succesfull, ...)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="7mrqi9G4F7wSYJNyf2I3-10" value="Create send noti to user" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="6240" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7mrqi9G4F7wSYJNyf2I3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7mrqi9G4F7wSYJNyf2I3-11" target="7mrqi9G4F7wSYJNyf2I3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7mrqi9G4F7wSYJNyf2I3-11" value="Receive noti extract" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="51.25" y="6470" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7mrqi9G4F7wSYJNyf2I3-12" value="Click noti extract" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="395" y="6470" width="190" height="70" as="geometry" />
+        <mxCell id="7mrqi9G4F7wSYJNyf2I3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7mrqi9G4F7wSYJNyf2I3-12" target="7mrqi9G4F7wSYJNyf2I3-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7mrqi9G4F7wSYJNyf2I3-14" value="Show detail extract" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="400" y="6230" width="190" height="70" as="geometry" />
+        <mxCell id="7mrqi9G4F7wSYJNyf2I3-12" value="Click noti extract" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="365" y="6360" width="215" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7mrqi9G4F7wSYJNyf2I3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7mrqi9G4F7wSYJNyf2I3-15" target="7mrqi9G4F7wSYJNyf2I3-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7mrqi9G4F7wSYJNyf2I3-15" value="pass param extract id" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="51.25" y="6120" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7mrqi9G4F7wSYJNyf2I3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.413;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7mrqi9G4F7wSYJNyf2I3-12" target="7mrqi9G4F7wSYJNyf2I3-5">
+        <mxCell id="7mrqi9G4F7wSYJNyf2I3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7mrqi9G4F7wSYJNyf2I3-23" target="7mrqi9G4F7wSYJNyf2I3-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7mrqi9G4F7wSYJNyf2I3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=1.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7mrqi9G4F7wSYJNyf2I3-5" target="7mrqi9G4F7wSYJNyf2I3-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7mrqi9G4F7wSYJNyf2I3-23" value="Show info (error, succesfull, ...)&amp;nbsp;&lt;div&gt;noti extract&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="365" y="6470" width="215" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
