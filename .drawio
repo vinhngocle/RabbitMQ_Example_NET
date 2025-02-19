@@ -744,7 +744,7 @@
         <mxCell id="7mrqi9G4F7wSYJNyf2I3-39" value="+ FK: UserID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="7mrqi9G4F7wSYJNyf2I3-36">
           <mxGeometry y="78" width="193.56" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="7mrqi9G4F7wSYJNyf2I3-49" value="+ Status" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="7mrqi9G4F7wSYJNyf2I3-36">
+        <mxCell id="7mrqi9G4F7wSYJNyf2I3-49" value="+ FK: ExtractID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="7mrqi9G4F7wSYJNyf2I3-36">
           <mxGeometry y="104" width="193.56" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7mrqi9G4F7wSYJNyf2I3-50" value="+ CreateDate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="7mrqi9G4F7wSYJNyf2I3-36">
@@ -758,6 +758,12 @@
         </mxCell>
         <mxCell id="7mrqi9G4F7wSYJNyf2I3-48" value="1 - n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="215" y="6688" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7mrqi9G4F7wSYJNyf2I3-52" value="Extract" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="571.25" y="6677" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="7mrqi9G4F7wSYJNyf2I3-53" value="+ PK: ExtractID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="7mrqi9G4F7wSYJNyf2I3-52">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
