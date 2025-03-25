@@ -784,7 +784,7 @@
           <mxGeometry x="460" y="8930" width="279.62" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w0SF5a2X6wPUXyB23dPs-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Create shedule noti&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="9020" width="210" height="70" as="geometry" />
+          <mxGeometry x="31.25" y="9010" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w0SF5a2X6wPUXyB23dPs-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Save db admin service and cron job service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30.63" y="9120" width="200" height="70" as="geometry" />
