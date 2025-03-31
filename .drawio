@@ -846,7 +846,10 @@
           <mxGeometry x="52.81" y="9860" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4DvF4t6rb5iXyaaGXaWk-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Download file to temp folder&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="9980" width="210" height="70" as="geometry" />
+          <mxGeometry x="55" y="9980" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4DvF4t6rb5iXyaaGXaWk-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Send file compress (zip) to Decompress Service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="51.25" y="10100" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
