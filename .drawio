@@ -840,7 +840,7 @@
           <mxGeometry x="246.25" y="9680" width="373.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4DvF4t6rb5iXyaaGXaWk-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;User choose file zip&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="9750" width="210" height="70" as="geometry" />
+          <mxGeometry x="47.5" y="9750" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4DvF4t6rb5iXyaaGXaWk-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;click to button unzip file&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="52.81" y="9860" width="210" height="70" as="geometry" />
