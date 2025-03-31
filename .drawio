@@ -851,6 +851,18 @@
         <mxCell id="4DvF4t6rb5iXyaaGXaWk-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Send file compress (zip) to Decompress Service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="51.25" y="10100" width="210" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="4DvF4t6rb5iXyaaGXaWk-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Decompress Service receive message&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="10210" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4DvF4t6rb5iXyaaGXaWk-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;decompress file and keep original file structure&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="10320" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4DvF4t6rb5iXyaaGXaWk-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Send message to Data Service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339.81" y="10320" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4DvF4t6rb5iXyaaGXaWk-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Data Service receive and show files after decompress&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342.31" y="10210" width="210" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
