@@ -839,20 +839,40 @@
         <mxCell id="4DvF4t6rb5iXyaaGXaWk-1" value="Unzip file from data repositories" style="text;whiteSpace=wrap;align=center;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="246.25" y="9680" width="373.75" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4DvF4t6rb5iXyaaGXaWk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4DvF4t6rb5iXyaaGXaWk-2" target="4DvF4t6rb5iXyaaGXaWk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4DvF4t6rb5iXyaaGXaWk-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;User choose file zip&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47.5" y="9750" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4DvF4t6rb5iXyaaGXaWk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4DvF4t6rb5iXyaaGXaWk-3" target="4DvF4t6rb5iXyaaGXaWk-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DvF4t6rb5iXyaaGXaWk-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;click to button unzip file&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47.5" y="9860" width="210" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="4DvF4t6rb5iXyaaGXaWk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4DvF4t6rb5iXyaaGXaWk-5" target="4DvF4t6rb5iXyaaGXaWk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4DvF4t6rb5iXyaaGXaWk-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Send file path of file zip from MinIO to Decompress Service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="9980" width="210" height="70" as="geometry" />
+          <mxGeometry x="47.5" y="9980" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4DvF4t6rb5iXyaaGXaWk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4DvF4t6rb5iXyaaGXaWk-6" target="4DvF4t6rb5iXyaaGXaWk-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DvF4t6rb5iXyaaGXaWk-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Decompress Service receive message&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47.5" y="10090" width="210" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="4DvF4t6rb5iXyaaGXaWk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DvF4t6rb5iXyaaGXaWk-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="10355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4DvF4t6rb5iXyaaGXaWk-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;process decompress file zip and keep original file structure&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="52.81" y="10320" width="210" height="70" as="geometry" />
+          <mxGeometry x="47.5" y="10320" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4DvF4t6rb5iXyaaGXaWk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4DvF4t6rb5iXyaaGXaWk-8" target="4DvF4t6rb5iXyaaGXaWk-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DvF4t6rb5iXyaaGXaWk-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Send message file path to Data Service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351.06" y="10200" width="210" height="70" as="geometry" />
@@ -860,8 +880,14 @@
         <mxCell id="4DvF4t6rb5iXyaaGXaWk-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Data Service receive and show&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351.06" y="10090" width="210" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="4DvF4t6rb5iXyaaGXaWk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4DvF4t6rb5iXyaaGXaWk-11" target="4DvF4t6rb5iXyaaGXaWk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4DvF4t6rb5iXyaaGXaWk-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Download file zip from MinIO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="51.25" y="10200" width="210" height="70" as="geometry" />
+          <mxGeometry x="47.5" y="10200" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4DvF4t6rb5iXyaaGXaWk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4DvF4t6rb5iXyaaGXaWk-12" target="4DvF4t6rb5iXyaaGXaWk-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DvF4t6rb5iXyaaGXaWk-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Upload file compressed to MinIO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351.06" y="10320" width="210" height="70" as="geometry" />
