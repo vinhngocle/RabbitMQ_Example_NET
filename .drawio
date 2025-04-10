@@ -902,11 +902,8 @@
         <mxCell id="UjOvNIFOwVN5BqT_U1oj-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Call Grpc to Decompress Service to unzip file&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="678.75" y="9970" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UjOvNIFOwVN5BqT_U1oj-26" value="version 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="140" y="9758" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UjOvNIFOwVN5BqT_U1oj-27" value="version 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="718.75" y="9758" width="80" height="30" as="geometry" />
+        <mxCell id="UjOvNIFOwVN5BqT_U1oj-26" value="version 1 &lt;br&gt;(use RabbitMQ)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="9748" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UjOvNIFOwVN5BqT_U1oj-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjOvNIFOwVN5BqT_U1oj-28" target="UjOvNIFOwVN5BqT_U1oj-30">
           <mxGeometry relative="1" as="geometry" />
@@ -991,7 +988,7 @@
             <mxPoint x="996" y="10320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjOvNIFOwVN5BqT_U1oj-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.014;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="UjOvNIFOwVN5BqT_U1oj-58">
+        <mxCell id="UjOvNIFOwVN5BqT_U1oj-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.014;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="UjOvNIFOwVN5BqT_U1oj-30" target="UjOvNIFOwVN5BqT_U1oj-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="894" y="10400" as="sourcePoint" />
             <mxPoint x="1006" y="10308" as="targetPoint" />
@@ -999,6 +996,9 @@
         </mxCell>
         <mxCell id="UjOvNIFOwVN5BqT_U1oj-61" value="tracking realtime" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="900" y="10360" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UjOvNIFOwVN5BqT_U1oj-62" value="version 1 &lt;br&gt;(use GRPC)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="731.25" y="9740" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
