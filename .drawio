@@ -1163,6 +1163,27 @@
         <mxCell id="_2z6S6w2Ahoi-1HTPEL--15" value="ID of Folders, Files" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="520.87" y="12420" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_2z6S6w2Ahoi-1HTPEL--16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="12740" as="sourcePoint" />
+            <mxPoint x="380" y="12510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2z6S6w2Ahoi-1HTPEL--18" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_2z6S6w2Ahoi-1HTPEL--10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="312.5" y="12760" as="sourcePoint" />
+            <mxPoint x="360" y="12740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2z6S6w2Ahoi-1HTPEL--20" value="MasterID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="12480" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_2z6S6w2Ahoi-1HTPEL--21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_2z6S6w2Ahoi-1HTPEL--8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="12640" as="sourcePoint" />
+            <mxPoint x="380" y="12510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
