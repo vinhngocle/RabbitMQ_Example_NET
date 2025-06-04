@@ -1051,7 +1051,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-35" value="&lt;font&gt;Send Clone Data request via gRPC cloud service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="478.25" y="11750" width="210" height="60" as="geometry" />
+          <mxGeometry x="475.63" y="11750" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KLbKpYa3hshBmAN4IAe5-36">
           <mxGeometry relative="1" as="geometry">
@@ -1082,7 +1082,7 @@
           <mxGeometry x="42.5" y="11660" width="197.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-50" value="Result list file data clone" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="489.53" y="11370" width="190.47" height="60" as="geometry" />
+          <mxGeometry x="489.53" y="11360" width="190.47" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
