@@ -1137,7 +1137,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_2z6S6w2Ahoi-1HTPEL--6" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;CloneID &lt;br&gt;(File Individule, not structure)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="12270" width="215" height="60" as="geometry" />
+          <mxGeometry x="55" y="12260" width="215" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_2z6S6w2Ahoi-1HTPEL--7" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;Bucket&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="53.75" y="12370" width="216.25" height="60" as="geometry" />
