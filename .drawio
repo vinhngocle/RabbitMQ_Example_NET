@@ -1155,10 +1155,13 @@
           <mxGeometry x="400" y="12298" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_2z6S6w2Ahoi-1HTPEL--13" value="CloneID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="450.87" y="12330" width="70" height="30" as="geometry" />
+          <mxGeometry x="450.87" y="12340" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_2z6S6w2Ahoi-1HTPEL--14" value="PatientID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="485" y="12380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_2z6S6w2Ahoi-1HTPEL--15" value="ID of Folers, Files" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="525.87" y="12420" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
