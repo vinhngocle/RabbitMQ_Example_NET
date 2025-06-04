@@ -1088,7 +1088,7 @@
           <mxGeometry x="652.4699999999998" y="11420" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-44" value="write log&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="11440" width="80" height="30" as="geometry" />
+          <mxGeometry x="731.25" y="11440" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLbKpYa3hshBmAN4IAe5-46" target="KLbKpYa3hshBmAN4IAe5-6">
           <mxGeometry relative="1" as="geometry" />
