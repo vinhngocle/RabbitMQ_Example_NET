@@ -1006,8 +1006,17 @@
         <mxCell id="KLbKpYa3hshBmAN4IAe5-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Backend API&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="46.160000000000004" y="11110" width="178.94" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KLbKpYa3hshBmAN4IAe5-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Create connection config&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="11200" width="178.94" height="50" as="geometry" />
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Create cloud connection&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="11210" width="178.94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Choose connection exist&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45.53" y="11300" width="178.94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Choose patient exist in connection&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41.25" y="11380" width="178.94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Choose patient exist in connection&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="43.09" y="11480" width="178.94" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
