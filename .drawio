@@ -1081,8 +1081,8 @@
         <mxCell id="KLbKpYa3hshBmAN4IAe5-47" value="&lt;font&gt;Store DB backend&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="42.5" y="11660" width="197.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KLbKpYa3hshBmAN4IAe5-50" value="Result list file data clone" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="489.53" y="11360" width="190.47" height="60" as="geometry" />
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-51" value="&lt;font&gt;Store DB backend&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="485.14" y="11360" width="187.72" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
