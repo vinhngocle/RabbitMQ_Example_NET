@@ -1004,16 +1004,13 @@
           <mxGeometry x="343.5300000000001" y="11010" width="373.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Backend API&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="43.97" y="11120" width="178.94" height="50" as="geometry" />
+          <mxGeometry x="40" y="11120" width="178.94" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-4" value="&lt;font&gt;Create connection config&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="45" y="11560" width="178.94" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KLbKpYa3hshBmAN4IAe5-5" value="&lt;font&gt;Call gRPC cloud service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="469.99999999999994" y="11210" width="178.94" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-6" value="&lt;span&gt;select patient in connection&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="472.8099999999999" y="11410" width="178.94" height="50" as="geometry" />
+          <mxGeometry x="506.02999999999986" y="11760" width="178.94" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Enter connection config&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42.5" y="11230" width="178.94" height="50" as="geometry" />
@@ -1040,8 +1037,8 @@
         <mxCell id="KLbKpYa3hshBmAN4IAe5-14" value="write log&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="290.00000000000006" y="11450" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KLbKpYa3hshBmAN4IAe5-15" value="&lt;font&gt;Create Clone data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="472.8099999999999" y="11330" width="178.94" height="50" as="geometry" />
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-15" value="&lt;font&gt;Save data to MinIO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="502.9699999999999" y="11390" width="178.94" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLbKpYa3hshBmAN4IAe5-18" target="KLbKpYa3hshBmAN4IAe5-8">
           <mxGeometry relative="1" as="geometry" />
@@ -1050,10 +1047,38 @@
           <mxGeometry x="38.220000000000006" y="11330" width="178.94" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-19" value="&lt;font&gt;Select connection&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="477.81" y="11490" width="178.94" height="50" as="geometry" />
+          <mxGeometry x="51.06" y="11670" width="178.94" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KLbKpYa3hshBmAN4IAe5-21" value="&lt;font&gt;Result file data clone&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="474.99999999999994" y="11120" width="178.94" height="50" as="geometry" />
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-21" value="&lt;font&gt;Donwload file data clone&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="501.06" y="11280" width="178.94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Send request via gRPC cloud service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510.00000000000006" y="11660" width="178.94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KLbKpYa3hshBmAN4IAe5-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="591.0350000000001" y="11440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KLbKpYa3hshBmAN4IAe5-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="758.22" y="11545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-36" value="Status clone data ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="505.72" y="11490" width="170.63" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-42" value="success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="505.72" y="11450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-43" value="failed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="684.66" y="11500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-44" value="write log&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="768.19" y="11530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-46" value="&lt;font&gt;Connec to S3 cloud&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="51.06" y="11770" width="178.94" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
