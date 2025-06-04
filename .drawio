@@ -1015,7 +1015,7 @@
         <mxCell id="KLbKpYa3hshBmAN4IAe5-5" value="&lt;font&gt;Call gRPC cloud service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="398.5599999999999" y="11420" width="178.94" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KLbKpYa3hshBmAN4IAe5-6" value="&lt;span&gt;select patient&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-6" value="&lt;span&gt;select patient in connection&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="398.55999999999995" y="11590" width="178.94" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Enter connection config&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
