@@ -1020,6 +1020,9 @@
             <mxPoint x="285.00000000000006" y="11465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLbKpYa3hshBmAN4IAe5-8" target="KLbKpYa3hshBmAN4IAe5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-8" value="Status Connection ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="53.31" y="11410" width="170.63" height="110" as="geometry" />
         </mxCell>
@@ -1033,7 +1036,7 @@
           <mxGeometry x="290.00000000000006" y="11450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-15" value="&lt;font&gt;Save data to MinIO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="482.2799999999999" y="11485" width="178.94" height="50" as="geometry" />
+          <mxGeometry x="492.2799999999999" y="11490" width="178.94" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLbKpYa3hshBmAN4IAe5-18" target="KLbKpYa3hshBmAN4IAe5-8">
           <mxGeometry relative="1" as="geometry" />
@@ -1044,36 +1047,42 @@
         <mxCell id="KLbKpYa3hshBmAN4IAe5-19" value="&lt;font&gt;Select connection&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="42.50000000000001" y="11770" width="178.94" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLbKpYa3hshBmAN4IAe5-35" target="KLbKpYa3hshBmAN4IAe5-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-35" value="&lt;font&gt;Send Clone Data request via gRPC cloud service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="478.25" y="11750" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KLbKpYa3hshBmAN4IAe5-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570.345" y="11535" as="targetPoint" />
+            <mxPoint x="580.345" y="11540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KLbKpYa3hshBmAN4IAe5-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="737.53" y="11640" as="targetPoint" />
+            <mxPoint x="747.53" y="11645" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-36" value="Status clone data ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="485.03000000000003" y="11585" width="170.63" height="110" as="geometry" />
+          <mxGeometry x="495.03000000000003" y="11590" width="170.63" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-42" value="success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="487.31" y="11555" width="70" height="30" as="geometry" />
+          <mxGeometry x="497.31" y="11560" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-43" value="failed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="663.9699999999999" y="11595" width="60" height="30" as="geometry" />
+          <mxGeometry x="673.9699999999999" y="11600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-44" value="write log&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="747.5" y="11625" width="80" height="30" as="geometry" />
+          <mxGeometry x="757.5" y="11630" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-46" value="&lt;font&gt;Connec to S3 cloud&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="43.09" y="11870" width="178.94" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KLbKpYa3hshBmAN4IAe5-47" value="&lt;font&gt;Store DB backend&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="42.5" y="11660" width="178.94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KLbKpYa3hshBmAN4IAe5-50" value="Result list file data clone" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="489.5299999999999" y="11380" width="178.94" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
