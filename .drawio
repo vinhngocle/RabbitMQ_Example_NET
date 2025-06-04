@@ -1142,7 +1142,7 @@
         <mxCell id="_2z6S6w2Ahoi-1HTPEL--7" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;Bucket&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="53.75" y="12370" width="216.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_2z6S6w2Ahoi-1HTPEL--8" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;Folder, File &lt;br&gt;(ID)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_2z6S6w2Ahoi-1HTPEL--8" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;Folder, File &lt;br&gt;(IDs)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="52.82" y="12480" width="217.18" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_2z6S6w2Ahoi-1HTPEL--9" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;Parser File&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1183,6 +1183,37 @@
             <mxPoint x="830" y="12640" as="sourcePoint" />
             <mxPoint x="380" y="12510" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_2z6S6w2Ahoi-1HTPEL--22" value="Folders, Files individual, not structure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="910" y="12385" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_2z6S6w2Ahoi-1HTPEL--23" value="Parser file, index file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="12385" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_2z6S6w2Ahoi-1HTPEL--24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="845" y="12399.5" as="sourcePoint" />
+            <mxPoint x="895" y="12399.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2z6S6w2Ahoi-1HTPEL--25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="12399.5" as="sourcePoint" />
+            <mxPoint x="1250" y="12399.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2z6S6w2Ahoi-1HTPEL--27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1330" y="12360" as="sourcePoint" />
+            <mxPoint x="770" y="12270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="12280" />
+              <mxPoint x="845" y="12285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2z6S6w2Ahoi-1HTPEL--28" value="ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="726.82" y="12240" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
