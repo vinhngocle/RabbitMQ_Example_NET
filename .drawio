@@ -1266,11 +1266,14 @@
             <mxPoint x="600" y="13370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_2z6S6w2Ahoi-1HTPEL--46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_2z6S6w2Ahoi-1HTPEL--32">
+        <mxCell id="_2z6S6w2Ahoi-1HTPEL--46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="_2z6S6w2Ahoi-1HTPEL--32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="830" y="13080" as="sourcePoint" />
+            <mxPoint x="1040" y="13300" as="sourcePoint" />
             <mxPoint x="1038" y="13370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_2z6S6w2Ahoi-1HTPEL--47" value="- DICOM to structure&lt;div&gt;- Pdf, Image, Excel, CSV to text&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="13240" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
