@@ -1233,7 +1233,7 @@
             <mxPoint x="442.5" y="13280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HQr5U8Rhm5JJJHwNO1nx-11" value="- Clone File / Folder by PatientID&lt;div&gt;- Assign CloneID&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="HQr5U8Rhm5JJJHwNO1nx-11" value="- Clone File/Folder by PatientID&lt;div&gt;- Assign CloneID&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="216.25" y="13220" width="236.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HQr5U8Rhm5JJJHwNO1nx-12" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;XT Cloud Storage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
