@@ -1336,25 +1336,25 @@
             <mxPoint x="401.96999999999997" y="14165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FdrvhK27sHM3IJRV2DZn-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-7">
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="224.4699999999998" y="14270" as="targetPoint" />
+            <mxPoint x="224.4699999999998" y="14250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-7" value="Parse status ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="134.47" y="14110" width="180" height="110" as="geometry" />
+          <mxGeometry x="134.47" y="14090" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-8" target="FdrvhK27sHM3IJRV2DZn-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-8" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Back to XT cloud storage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="465.19" y="14130" width="215" height="70" as="geometry" />
+          <mxGeometry x="465.19" y="14110" width="215" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-9" value="Success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="330" y="14128" width="80" height="30" as="geometry" />
+          <mxGeometry x="340" y="14150" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-10" value="Failed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="154.69" y="14230" width="60" height="30" as="geometry" />
+          <mxGeometry x="152.5" y="14210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-13" target="FdrvhK27sHM3IJRV2DZn-7">
           <mxGeometry relative="1" as="geometry" />
@@ -1363,7 +1363,7 @@
           <mxGeometry x="120" y="13950" width="208.94" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-14" value="Write log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="178.94" y="14280" width="80" height="30" as="geometry" />
+          <mxGeometry x="177.5" y="14250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-15" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;Index file&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;(- Structure to Database&lt;/span&gt;&lt;div style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;- Text to vector DB )&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="463.4699999999999" y="13960" width="218.44" height="80" as="geometry" />
@@ -1380,22 +1380,22 @@
         <mxCell id="FdrvhK27sHM3IJRV2DZn-17" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Assign CloneID to tracking&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="13540" width="215" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FdrvhK27sHM3IJRV2DZn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-18">
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="13685" as="targetPoint" />
+            <mxPoint x="720" y="13690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-18" value="index status ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="473.75" y="13640" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-20" value="Failed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="653.75" y="13640" width="60" height="30" as="geometry" />
+          <mxGeometry x="651.98" y="13650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-21" value="Write log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="741.25" y="13670" width="80" height="30" as="geometry" />
+          <mxGeometry x="732.31" y="13675" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-22" value="Success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="561.06" y="13590" width="80" height="30" as="geometry" />
+          <mxGeometry x="557.31" y="13600" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-24" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Save result to XT Cloud Storage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="456.78" y="13510" width="215" height="70" as="geometry" />
