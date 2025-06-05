@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="XskubEJi0R3WrxgRnHOm">
-    <mxGraphModel dx="1757" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1952" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1317,7 +1317,7 @@
         <mxCell id="FdrvhK27sHM3IJRV2DZn-4" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Store Clone File/Folder to&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;XT cloud storage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="128.53" y="13790" width="215" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FdrvhK27sHM3IJRV2DZn-5" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;Parser File&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(- DICOM to structure&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;- Pdf, Image, Excel, CSV to text)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-5" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;Parse File&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(- DICOM to structure&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;- Pdf, Image, Excel, CSV to text)&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="131.06" y="13920" width="208.94" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-7">
@@ -1334,19 +1334,25 @@
           <mxGeometry x="148.56" y="14230" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-8" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Back to XT cloud storage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="131.05999999999997" y="14410" width="215" height="70" as="geometry" />
+          <mxGeometry x="520.87" y="14248" width="215" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-9" value="Success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="150.06" y="14350" width="80" height="30" as="geometry" />
+          <mxGeometry x="351.06" y="14248" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-10" value="Failed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="332.78" y="14250" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="14350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FdrvhK27sHM3IJRV2DZn-13" value="Send message to &lt;br&gt;update parser status&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-13" value="Send message to &lt;br&gt;update parse status&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="131.56" y="14070" width="208.94" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-14" value="Write log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="420" y="14268" width="80" height="30" as="geometry" />
+          <mxGeometry x="200" y="14400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-15" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;Index file&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;(- Structure to Database&lt;/span&gt;&lt;div style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;- Text to vector DB )&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="515.5699999999999" y="14080" width="218.44" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-16" value="Send message to &lt;br&gt;update index status&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="508.34" y="13910" width="208.94" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
