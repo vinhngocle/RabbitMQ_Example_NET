@@ -1240,7 +1240,7 @@
           <mxGeometry x="488.13" y="13410" width="215" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HQr5U8Rhm5JJJHwNO1nx-13" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;Parse File&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="907.5" y="13410" width="215" height="70" as="geometry" />
+          <mxGeometry x="903" y="13410" width="215" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HQr5U8Rhm5JJJHwNO1nx-14" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;Index File&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1322.5" y="13410" width="215" height="70" as="geometry" />
@@ -1253,14 +1253,14 @@
         </mxCell>
         <mxCell id="HQr5U8Rhm5JJJHwNO1nx-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="705" y="13445.5" as="sourcePoint" />
-            <mxPoint x="902.5" y="13445" as="targetPoint" />
+            <mxPoint x="703.13" y="13440.5" as="sourcePoint" />
+            <mxPoint x="900.63" y="13440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HQr5U8Rhm5JJJHwNO1nx-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1122.5" y="13445" as="sourcePoint" />
-            <mxPoint x="1320" y="13444.5" as="targetPoint" />
+            <mxPoint x="1118" y="13440.5" as="sourcePoint" />
+            <mxPoint x="1315.5" y="13440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HQr5U8Rhm5JJJHwNO1nx-19" value="Parser Clone Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
@@ -1273,7 +1273,7 @@
           <mxGeometry x="337.5" y="13400" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HQr5U8Rhm5JJJHwNO1nx-23" value="- DICOM to structure&lt;div&gt;- Pdf, Image, Excel, CSV to text&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="927.5" y="13490" width="220" height="50" as="geometry" />
+          <mxGeometry x="920" y="13490" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HQr5U8Rhm5JJJHwNO1nx-24" value="- Structure to Database&lt;div&gt;- Text to vector DB&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1332.5" y="13490" width="170" height="50" as="geometry" />
