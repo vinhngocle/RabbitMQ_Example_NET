@@ -1354,6 +1354,31 @@
         <mxCell id="FdrvhK27sHM3IJRV2DZn-17" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Assign CloneID to tracking&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="13540" width="215" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="13685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558.7799999999997" y="13570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-18" value="index status ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="468.78" y="13630" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-20" value="Failed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="653.75" y="13640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-21" value="Write log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="741.25" y="13670" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-22" value="Success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="561.06" y="13590" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-24" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Save to XT Cloud Storage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="13500" width="215" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
