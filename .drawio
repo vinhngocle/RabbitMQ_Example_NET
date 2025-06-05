@@ -1305,6 +1305,43 @@
             <mxPoint x="1612.5" y="13270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-1" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Patient MasterID&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="124.99999999999997" y="13390" width="215" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-2" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Clone Data by PatienID&lt;br&gt;(Dicom, Pdf, Excel, CSV, ... )&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="13530" width="215" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-3" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Generate signature CloneID&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="125" y="13660" width="215" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-4" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Store Clone File/Folder&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="128.53" y="13790" width="215" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-5" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;Parser File&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(- DICOM to structure&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;- Pdf, Image, Excel, CSV to text)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="131.06" y="13920" width="208.94" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="14125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235.52999999999997" y="14240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-7" value="Status parser file ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="145.53" y="14070" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-8" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Save Parser File&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="128.02999999999997" y="14250" width="215" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-9" value="Success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="152.03" y="14190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-10" value="Failed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="329.75" y="14090" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
