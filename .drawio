@@ -1322,7 +1322,7 @@
             <mxPoint x="227.5" y="13790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FdrvhK27sHM3IJRV2DZn-4" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Upload clone File/Folder to&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;XT cloud storage &lt;br&gt;(MinIO)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-4" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Upload clone Files/Folders to&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;XT cloud storage &lt;br&gt;(MinIO)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="13670" width="215" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-5" target="FdrvhK27sHM3IJRV2DZn-13">
@@ -1377,7 +1377,7 @@
         <mxCell id="FdrvhK27sHM3IJRV2DZn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-17" target="FdrvhK27sHM3IJRV2DZn-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FdrvhK27sHM3IJRV2DZn-17" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Assign CloneID to tracking&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-17" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Assign CloneID&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="13540" width="215" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-18">
