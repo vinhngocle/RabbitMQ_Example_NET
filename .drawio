@@ -1306,53 +1306,53 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-1" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Patient MasterID&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="124.99999999999997" y="13390" width="215" height="70" as="geometry" />
+          <mxGeometry x="128.02999999999997" y="13300" width="215" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-2" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Clone Data by PatienID&lt;br&gt;(Dicom, Pdf, Excel, CSV, ... )&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="122.5" y="13530" width="215" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="FdrvhK27sHM3IJRV2DZn-3" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Generate signature CloneID&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="125" y="13660" width="215" height="70" as="geometry" />
+          <mxGeometry x="131.06" y="13420" width="215" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-4" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Store Clone File/Folder to&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;XT cloud storage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="128.53" y="13790" width="215" height="70" as="geometry" />
+          <mxGeometry x="120" y="13670" width="215" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-5" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;Parse File&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(- DICOM to structure&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;- Pdf, Image, Excel, CSV to text)&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="131.06" y="13920" width="208.94" height="90" as="geometry" />
+          <mxGeometry x="110" y="13800" width="208.94" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FdrvhK27sHM3IJRV2DZn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-7">
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-7" target="FdrvhK27sHM3IJRV2DZn-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="423.03" y="14285" as="targetPoint" />
+            <mxPoint x="401.96999999999997" y="14165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="238.55999999999997" y="14400" as="targetPoint" />
+            <mxPoint x="217.49999999999997" y="14280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FdrvhK27sHM3IJRV2DZn-7" value="Parser status ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="148.56" y="14230" width="180" height="110" as="geometry" />
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-7" value="Parse status ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="14110" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-8" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Back to XT cloud storage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="520.87" y="14248" width="215" height="70" as="geometry" />
+          <mxGeometry x="465.19" y="14130" width="215" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-9" value="Success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="351.06" y="14248" width="80" height="30" as="geometry" />
+          <mxGeometry x="330" y="14128" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-10" value="Failed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="160" y="14350" width="60" height="30" as="geometry" />
+          <mxGeometry x="145.19" y="14230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-13" value="Send message to &lt;br&gt;update parse status&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="131.56" y="14070" width="208.94" height="90" as="geometry" />
+          <mxGeometry x="110.5" y="13950" width="208.94" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-14" value="Write log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="200" y="14400" width="80" height="30" as="geometry" />
+          <mxGeometry x="178.94" y="14280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-15" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;Index file&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;(- Structure to Database&lt;/span&gt;&lt;div style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;- Text to vector DB )&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="515.5699999999999" y="14080" width="218.44" height="80" as="geometry" />
+          <mxGeometry x="463.4699999999999" y="13960" width="218.44" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-16" value="Send message to &lt;br&gt;update index status&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="508.34" y="13910" width="208.94" height="90" as="geometry" />
+          <mxGeometry x="465.19" y="13800" width="208.94" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-17" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Assign CloneID to tracking&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="13540" width="215" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
