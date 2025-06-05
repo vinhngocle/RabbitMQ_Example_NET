@@ -1284,25 +1284,25 @@
         <mxCell id="HQr5U8Rhm5JJJHwNO1nx-7" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;Patient MasterID&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="477.5" y="13650" width="215" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HQr5U8Rhm5JJJHwNO1nx-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.903;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="HQr5U8Rhm5JJJHwNO1nx-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="13810" as="sourcePoint" />
-            <mxPoint x="200" y="13680" as="targetPoint" />
+            <mxPoint x="205" y="13680" as="sourcePoint" />
+            <mxPoint x="475" y="13680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HQr5U8Rhm5JJJHwNO1nx-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.012;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="HQr5U8Rhm5JJJHwNO1nx-7">
+        <mxCell id="HQr5U8Rhm5JJJHwNO1nx-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.558;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="HQr5U8Rhm5JJJHwNO1nx-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="13680" as="sourcePoint" />
             <mxPoint x="430" y="13680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HQr5U8Rhm5JJJHwNO1nx-10" value="Assign CloneID" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="236.44" y="13690" width="150" height="30" as="geometry" />
+          <mxGeometry x="241.88" y="13690" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HQr5U8Rhm5JJJHwNO1nx-11" value="Clone File / Folder by PatientID" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="232.5" y="13630" width="205" height="40" as="geometry" />
+          <mxGeometry x="238.18" y="13640" width="205" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HQr5U8Rhm5JJJHwNO1nx-12" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;XT Cloud Storage&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;(Clone store here)&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="HQr5U8Rhm5JJJHwNO1nx-12" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;XT Cloud Storage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="475.63" y="13810" width="215" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HQr5U8Rhm5JJJHwNO1nx-13" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;Parser File&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1334,6 +1334,9 @@
         </mxCell>
         <mxCell id="HQr5U8Rhm5JJJHwNO1nx-20" value="Index by CloneID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1145" y="13810" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HQr5U8Rhm5JJJHwNO1nx-22" value="Clone Store" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="325" y="13800" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
