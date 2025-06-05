@@ -1344,6 +1344,9 @@
         <mxCell id="FdrvhK27sHM3IJRV2DZn-7" value="Parse status ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="14110" width="180" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-8" target="FdrvhK27sHM3IJRV2DZn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-8" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Back to XT cloud storage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="465.19" y="14130" width="215" height="70" as="geometry" />
         </mxCell>
@@ -1365,8 +1368,11 @@
         <mxCell id="FdrvhK27sHM3IJRV2DZn-15" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;Index file&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;(- Structure to Database&lt;/span&gt;&lt;div style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;- Text to vector DB )&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="463.4699999999999" y="13960" width="218.44" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-16" target="FdrvhK27sHM3IJRV2DZn-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-16" value="Send message to &lt;br&gt;update index status&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="465.19" y="13800" width="208.94" height="90" as="geometry" />
+          <mxGeometry x="459.81" y="13800" width="208.94" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FdrvhK27sHM3IJRV2DZn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-17" target="FdrvhK27sHM3IJRV2DZn-4">
           <mxGeometry relative="1" as="geometry" />
@@ -1396,8 +1402,11 @@
         <mxCell id="FdrvhK27sHM3IJRV2DZn-22" value="Success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="561.06" y="13590" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FdrvhK27sHM3IJRV2DZn-24" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Save to XT Cloud Storage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-24" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Save result to XT Cloud Storage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="447.5" y="13500" width="215" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FdrvhK27sHM3IJRV2DZn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.539;entryY=1.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FdrvhK27sHM3IJRV2DZn-15" target="FdrvhK27sHM3IJRV2DZn-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
