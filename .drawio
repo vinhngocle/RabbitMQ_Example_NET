@@ -1281,6 +1281,30 @@
         <mxCell id="HQr5U8Rhm5JJJHwNO1nx-25" value="Files/Folders is separate, not structure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="208.13" y="13290" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HQr5U8Rhm5JJJHwNO1nx-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="13640" as="sourcePoint" />
+            <mxPoint x="600" y="13500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HQr5U8Rhm5JJJHwNO1nx-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.562;exitY=1.06;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HQr5U8Rhm5JJJHwNO1nx-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="13400" as="sourcePoint" />
+            <mxPoint x="1430" y="13630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HQr5U8Rhm5JJJHwNO1nx-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.409;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HQr5U8Rhm5JJJHwNO1nx-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="13190" as="sourcePoint" />
+            <mxPoint x="1010" y="13630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HQr5U8Rhm5JJJHwNO1nx-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="13640" as="sourcePoint" />
+            <mxPoint x="1440" y="13640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
