@@ -1420,8 +1420,8 @@
             <mxPoint x="116.25" y="14250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TS7hCFPgGxuPw3Q2HAww-15" value="receive status message&amp;nbsp;&lt;br&gt;(true/false)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="537.48" y="14410" width="190" height="50" as="geometry" />
+        <mxCell id="TS7hCFPgGxuPw3Q2HAww-15" value="receive status message&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="537.48" y="14420" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TS7hCFPgGxuPw3Q2HAww-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TS7hCFPgGxuPw3Q2HAww-16" target="TS7hCFPgGxuPw3Q2HAww-17">
           <mxGeometry relative="1" as="geometry" />
