@@ -1546,13 +1546,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XvfTjh4loLveALbK8uNn-7" value="complete upload part" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="1199.72" y="15247.5" width="161.87" height="70" as="geometry" />
+          <mxGeometry x="1162.24" y="15247.5" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-11" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1077.24" y="14858" width="50" height="30" as="geometry" />
+          <mxGeometry x="1080" y="14865" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-12" value="false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="844.13" y="14950" width="60" height="30" as="geometry" />
+          <mxGeometry x="940" y="14960" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_gZMjWGzgXxSyPQ4oJsj-13">
           <mxGeometry relative="1" as="geometry">
