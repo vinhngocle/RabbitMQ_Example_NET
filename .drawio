@@ -1503,7 +1503,7 @@
           <mxGeometry x="596.6800000000002" y="14620" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TS7hCFPgGxuPw3Q2HAww-44" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Create Connection&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="592.5699999999999" y="15270" width="161.87" height="70" as="geometry" />
+          <mxGeometry x="614.4399999999999" y="15180" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TS7hCFPgGxuPw3Q2HAww-47" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;UploadBackupFile&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="350.43999999999994" y="14760" width="161.87" height="70" as="geometry" />
@@ -1524,10 +1524,10 @@
           <mxGeometry x="596.6800000000001" y="14900" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XvfTjh4loLveALbK8uNn-6" value="upload part" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="1260.82" y="14880" width="173.68" height="70" as="geometry" />
+          <mxGeometry x="1074.68" y="14765" width="173.68" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XvfTjh4loLveALbK8uNn-7" value="Complete multi part upload" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="1272.63" y="15270" width="161.87" height="70" as="geometry" />
+          <mxGeometry x="1080.59" y="15170" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-11" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="754.44" y="14765" width="50" height="30" as="geometry" />
@@ -1542,22 +1542,31 @@
           <mxGeometry x="596.6800000000001" y="15010" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-29" value="Split file into parts" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1042.63" y="14765" width="167.37" height="70" as="geometry" />
+          <mxGeometry x="845.0000000000001" y="14620" width="167.37" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-30" value="Create part to generate presign url" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="14760" width="174.5" height="80" as="geometry" />
+          <mxGeometry x="1074.68" y="14615" width="174.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-31" value="Collect ETag for each part" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1264.5" y="15000" width="170" height="70" as="geometry" />
+          <mxGeometry x="1076.52" y="14890" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-32" value="&lt;span&gt;call via &lt;br&gt;api-sdk&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="440" y="14835" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-33" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;All parts &lt;br&gt;uploaded ?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1279.5" y="15110" width="140" height="120" as="geometry" />
+        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-33" value="&lt;span&gt;All parts &lt;br&gt;uploaded ?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1091.52" y="15010" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-34" value="Save uploaded backup file metadata" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="15270" width="161.87" height="70" as="geometry" />
+          <mxGeometry x="847.75" y="15170" width="161.87" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-37" value="Retry failed upload" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="15050" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.027;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_gZMjWGzgXxSyPQ4oJsj-33" target="_gZMjWGzgXxSyPQ4oJsj-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-39" value="false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1226.52" y="15030" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
