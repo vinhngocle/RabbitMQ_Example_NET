@@ -1529,8 +1529,11 @@
         <mxCell id="XvfTjh4loLveALbK8uNn-6" value="upload part" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="1074.68" y="14765" width="173.68" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XvfTjh4loLveALbK8uNn-7" target="_gZMjWGzgXxSyPQ4oJsj-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XvfTjh4loLveALbK8uNn-7" value="Complete multi part upload" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="865.0399999999998" y="15170" width="161.87" height="70" as="geometry" />
+          <mxGeometry x="856.0599999999998" y="15170" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-11" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="754.44" y="14765" width="50" height="30" as="geometry" />
@@ -1592,6 +1595,9 @@
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-39" value="false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1226.52" y="15030" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_gZMjWGzgXxSyPQ4oJsj-40" target="XvfTjh4loLveALbK8uNn-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-40" value="Send UploadID and ETags" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1080.58" y="15170" width="161.87" height="70" as="geometry" />
