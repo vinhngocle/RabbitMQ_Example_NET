@@ -1501,7 +1501,7 @@
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TS7hCFPgGxuPw3Q2HAww-43" target="XvfTjh4loLveALbK8uNn-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TS7hCFPgGxuPw3Q2HAww-43" value="&amp;nbsp;Upload Backup File&lt;br&gt;or &lt;br&gt;Upload FHIR File" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="TS7hCFPgGxuPw3Q2HAww-43" value="&amp;nbsp;Upload Backup File" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="922.2400000000001" y="14720" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TS7hCFPgGxuPw3Q2HAww-44" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Create Connection&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
@@ -1510,7 +1510,7 @@
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TS7hCFPgGxuPw3Q2HAww-47" target="TS7hCFPgGxuPw3Q2HAww-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TS7hCFPgGxuPw3Q2HAww-47" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;call UploadBackupFile&lt;br&gt;or&lt;br&gt;UploadFHIRFile&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="TS7hCFPgGxuPw3Q2HAww-47" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;call UploadBackupFile&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="510" y="14720" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XvfTjh4loLveALbK8uNn-2" target="_gZMjWGzgXxSyPQ4oJsj-13">
