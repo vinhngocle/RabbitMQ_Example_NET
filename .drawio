@@ -1544,6 +1544,9 @@
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-13" value="Init multi part upload" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="836.6800000000001" y="14765" width="161.87" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_gZMjWGzgXxSyPQ4oJsj-14" target="TS7hCFPgGxuPw3Q2HAww-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-14" value="Upload file path" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="596.6800000000001" y="15010" width="161.87" height="70" as="geometry" />
         </mxCell>
