@@ -1555,7 +1555,7 @@
             <mxPoint x="1152.115" y="14920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-13" value="Init multi part" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-13" value="Init multi part upload" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1071.18" y="14795" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_gZMjWGzgXxSyPQ4oJsj-14">
