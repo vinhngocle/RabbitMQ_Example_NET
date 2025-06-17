@@ -1503,7 +1503,7 @@
           <mxGeometry x="596.6800000000002" y="14620" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TS7hCFPgGxuPw3Q2HAww-44" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Create Connection&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="354.06999999999994" y="15170" width="161.87" height="70" as="geometry" />
+          <mxGeometry x="157.49999999999994" y="15170" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TS7hCFPgGxuPw3Q2HAww-47" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;UploadBackupFile&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="350.43999999999994" y="14760" width="161.87" height="70" as="geometry" />
@@ -1559,7 +1559,7 @@
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-33" value="&lt;span&gt;All parts &lt;br&gt;uploaded ?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1091.52" y="15010" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-34" value="Save uploaded backup file metadata" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-34" value="Cloud storage assembles all file" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="608.13" y="15170" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-37" value="Retry failed upload" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
@@ -1576,6 +1576,9 @@
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-43" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1102.75" y="15130" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-44" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Save uploaded file &lt;br&gt;metadata&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="391.18" y="15170" width="161.87" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
