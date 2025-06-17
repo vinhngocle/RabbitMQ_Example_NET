@@ -1533,7 +1533,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XvfTjh4loLveALbK8uNn-7" value="Complete multi part upload" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="856.0599999999998" y="15170" width="161.87" height="70" as="geometry" />
+          <mxGeometry x="850.4999999999999" y="15170" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-11" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="754.44" y="14765" width="50" height="30" as="geometry" />
