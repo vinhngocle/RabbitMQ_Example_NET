@@ -1571,7 +1571,7 @@
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-39" value="false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1226.52" y="15030" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-40" value="Send uploadId and ETags" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-40" value="Send UploadID and ETags" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="838.13" y="15170" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-43" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
