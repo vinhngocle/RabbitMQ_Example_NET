@@ -1498,22 +1498,28 @@
           <mxGeometry x="510" y="14720" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TS7hCFPgGxuPw3Q2HAww-52" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Get Upload Id&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="380" y="15120" width="161.87" height="70" as="geometry" />
+          <mxGeometry x="363.88" y="15200" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TS7hCFPgGxuPw3Q2HAww-53" value="Store db" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="773.76" y="15200" width="161.87" height="70" as="geometry" />
+          <mxGeometry x="675.63" y="15200" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XvfTjh4loLveALbK8uNn-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;file large&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;(size &amp;gt; 1GB)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010.93" y="14850" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="XvfTjh4loLveALbK8uNn-3" value="upload part" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="XvfTjh4loLveALbK8uNn-3" value="create part" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1240" y="14880" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XvfTjh4loLveALbK8uNn-4" value="Presign URL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="15050" width="161.87" height="70" as="geometry" />
+          <mxGeometry x="989.06" y="15050" width="161.87" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XvfTjh4loLveALbK8uNn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XvfTjh4loLveALbK8uNn-2" target="XvfTjh4loLveALbK8uNn-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvfTjh4loLveALbK8uNn-6" value="upload part" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="15000" width="161.87" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XvfTjh4loLveALbK8uNn-7" value="complete upload part" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="15120" width="161.87" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
