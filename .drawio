@@ -1566,9 +1566,6 @@
         <mxCell id="_gZMjWGzgXxSyPQ4oJsj-14" value="Upload file path" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="831.1800000000001" y="15040" width="161.87" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_gZMjWGzgXxSyPQ4oJsj-27" value="via api-sdk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="422.12" y="14740" width="100" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
