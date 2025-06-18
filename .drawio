@@ -1713,6 +1713,63 @@
         <mxCell id="FhgdOJmG_pRTgj8h6cHx-45" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1860" y="10330" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FhgdOJmG_pRTgj8h6cHx-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FhgdOJmG_pRTgj8h6cHx-53" target="FhgdOJmG_pRTgj8h6cHx-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FhgdOJmG_pRTgj8h6cHx-53" value="Service Encrypt" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="935.77" y="3300" width="155.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FhgdOJmG_pRTgj8h6cHx-54" value="Scan files&amp;nbsp;&lt;br&gt;(Every 5 minutes)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="935.7700000000001" y="3420" width="155.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FhgdOJmG_pRTgj8h6cHx-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FhgdOJmG_pRTgj8h6cHx-55" target="FhgdOJmG_pRTgj8h6cHx-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FhgdOJmG_pRTgj8h6cHx-55" value="Watch tracking" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1231.52" y="3300" width="155.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FhgdOJmG_pRTgj8h6cHx-56" value="Monitor Folder and Files" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1231.52" y="3420" width="155.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FhgdOJmG_pRTgj8h6cHx-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FhgdOJmG_pRTgj8h6cHx-57" target="FhgdOJmG_pRTgj8h6cHx-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FhgdOJmG_pRTgj8h6cHx-57" value="File in eDlls.bat&lt;br&gt;invalid or modified ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1066.52" y="3530" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FhgdOJmG_pRTgj8h6cHx-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FhgdOJmG_pRTgj8h6cHx-58" target="FhgdOJmG_pRTgj8h6cHx-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FhgdOJmG_pRTgj8h6cHx-58" value="Encrypt Files in eDlls.bat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1080.17" y="3700" width="151.35" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FhgdOJmG_pRTgj8h6cHx-59" value="Stop all services in List" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1077.97" y="3820" width="155.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FhgdOJmG_pRTgj8h6cHx-63" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="FhgdOJmG_pRTgj8h6cHx-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1014" y="3590" as="sourcePoint" />
+            <mxPoint x="740" y="3600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FhgdOJmG_pRTgj8h6cHx-64" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1316.25" y="3590" as="sourcePoint" />
+            <mxPoint x="1316.25" y="3480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FhgdOJmG_pRTgj8h6cHx-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="FhgdOJmG_pRTgj8h6cHx-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="3590" as="sourcePoint" />
+            <mxPoint x="740" y="3600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FhgdOJmG_pRTgj8h6cHx-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="FhgdOJmG_pRTgj8h6cHx-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="3590" as="sourcePoint" />
+            <mxPoint x="906.06" y="3565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
