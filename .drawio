@@ -1787,9 +1787,9 @@
         <mxCell id="Wt-8wCll9Lf8edjapjAi-4" value="send message input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="215" y="15598" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wt-8wCll9Lf8edjapjAi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wt-8wCll9Lf8edjapjAi-6">
+        <mxCell id="Wt-8wCll9Lf8edjapjAi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wt-8wCll9Lf8edjapjAi-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="15840" as="targetPoint" />
+            <mxPoint x="919.065" y="15830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Wt-8wCll9Lf8edjapjAi-6" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Backend&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
@@ -1802,7 +1802,7 @@
           <mxGeometry x="686.88" y="15730" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wt-8wCll9Lf8edjapjAi-12" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Store Database&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="838.13" y="15840" width="161.87" height="70" as="geometry" />
+          <mxGeometry x="836.68" y="15830" width="161.87" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
