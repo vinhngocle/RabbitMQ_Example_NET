@@ -1801,7 +1801,7 @@
           <mxGeometry x="151.03" y="15770" width="345" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wt-8wCll9Lf8edjapjAi-21" value="Consume message result backup" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="160" y="16090" width="242.62" height="40" as="geometry" />
+          <mxGeometry x="157.38" y="16080" width="242.62" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wt-8wCll9Lf8edjapjAi-22" value="Consume request message" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="239.06" y="15870" width="191.87" height="40" as="geometry" />
@@ -1837,7 +1837,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wt-8wCll9Lf8edjapjAi-30" value="Create and store database" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="240" y="16170" width="190" height="40" as="geometry" />
+          <mxGeometry x="238.13" y="16170" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wt-8wCll9Lf8edjapjAi-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
