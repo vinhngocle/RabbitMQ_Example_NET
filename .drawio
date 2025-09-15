@@ -1778,7 +1778,7 @@
         </mxCell>
         <mxCell id="Wt-8wCll9Lf8edjapjAi-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="16250" as="sourcePoint" />
+            <mxPoint x="120" y="16240" as="sourcePoint" />
             <mxPoint x="120" y="15680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1795,13 +1795,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wt-8wCll9Lf8edjapjAi-19" value="Start Request backup&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="193.56" y="15710" width="157.5" height="30" as="geometry" />
+          <mxGeometry x="204.37" y="15710" width="157.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wt-8wCll9Lf8edjapjAi-20" value="Publish request message to RabbitMQ" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="156.06" y="15810" width="345" height="40" as="geometry" />
+          <mxGeometry x="151.03" y="15770" width="345" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Wt-8wCll9Lf8edjapjAi-21" value="Consume Message result" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="237.38" y="16100" width="192.62" height="40" as="geometry" />
+        <mxCell id="Wt-8wCll9Lf8edjapjAi-21" value="Consume message result backup" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="160" y="16090" width="242.62" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wt-8wCll9Lf8edjapjAi-22" value="Consume request message" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="239.06" y="15870" width="191.87" height="40" as="geometry" />
@@ -1833,7 +1833,7 @@
         <mxCell id="Wt-8wCll9Lf8edjapjAi-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="16120" as="sourcePoint" />
-            <mxPoint x="220" y="16120" as="targetPoint" />
+            <mxPoint x="520" y="16120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Wt-8wCll9Lf8edjapjAi-30" value="Create and store database" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
@@ -1848,7 +1848,7 @@
         <mxCell id="Wt-8wCll9Lf8edjapjAi-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="15724.5" as="sourcePoint" />
-            <mxPoint x="180" y="15725" as="targetPoint" />
+            <mxPoint x="200" y="15725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
