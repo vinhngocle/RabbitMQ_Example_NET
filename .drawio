@@ -1801,7 +1801,7 @@
           <mxGeometry x="156.06" y="15810" width="345" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wt-8wCll9Lf8edjapjAi-21" value="Consume Message result" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="237.38" y="16100" width="345" height="40" as="geometry" />
+          <mxGeometry x="237.38" y="16100" width="192.62" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wt-8wCll9Lf8edjapjAi-22" value="Consume request message" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="239.06" y="15870" width="191.87" height="40" as="geometry" />
